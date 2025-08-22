@@ -12,8 +12,7 @@ p2 = 0.02  # erro 2 qubits
 
 # Erro de relaxação térmica (T1 e T2 em microssegundos, tempo de porta em nanossegundos)
 T1 = 50e3
-T2 = 70e3
-gate_time_1q = 50     # ns
+T2 = 70e3p
 gate_time_2q = 200    # ns
 
 # Definir erros
